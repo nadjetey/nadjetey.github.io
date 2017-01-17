@@ -1,4 +1,4 @@
-##Spam Exterminator 4.07
+Spam Exterminator 4.07
 
 I hate SPAM - there's no better way to put it. I hate the fact that I actually pay to be sent adverts, I hate the way I'm always receiving the same ones, I hate the way the idiots who send it actually think that I'm going to buy any of the products, I hate the way they fill up my mailbox, and I hate the fact that I sometimes just can't help reading them rrock@mnsi.net is one of the many addresses that plague me. He's one of the many that offer a REMOVE ME option at the end of the letter, but the problem is that it's really not a wise idea to do so. Sending a letter back to some of these people can mark you as a 'live' address, and there's the very real risk that you may soon find yourself swimming in a sea of these letters and there's a good chance that the address you write your furious/abusive letter to, is not the real sender at all.
 
