@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+##Spam Exterminator 4.07
 
-You can use the [editor on GitHub](https://github.com/nadjetey/nadjetey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I hate SPAM - there's no better way to put it. I hate the fact that I actually pay to be sent adverts, I hate the way I'm always receiving the same ones, I hate the way the idiots who send it actually think that I'm going to buy any of the products, I hate the way they fill up my mailbox, and I hate the fact that I sometimes just can't help reading them rrock@mnsi.net is one of the many addresses that plague me. He's one of the many that offer a REMOVE ME option at the end of the letter, but the problem is that it's really not a wise idea to do so. Sending a letter back to some of these people can mark you as a 'live' address, and there's the very real risk that you may soon find yourself swimming in a sea of these letters and there's a good chance that the address you write your furious/abusive letter to, is not the real sender at all.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So what to do about it? My own experience is that once I get one letter, others are sure to follow from the same source; which is why I mentioned Mr Rock - he has sent me many, many letters over the past six months or so. But now I don't have to keep downloading and deleting; Unisyn's Spam Exterminator does it for me.
 
-### Markdown
+The review:  For the purposes of this review, we evaluated a total of five of the more popular anti-spam products. The first thing we did is play around with them; see how easy they were to use, how stable they were etc. Then we sent each a total of 30 messages - 10 of which were forwarded SPAM, 10 of which should have been recognised as SPAM, 5 of which were 'innocent' letters whose subjects could be interpreted as SPAM, and 5 normal, genuine letters. At this stage of the review, we let the applications standard settings decide what to pass and fail. To our surprise, two of the five applications deleted perfectly innocent mail - some of which had 'suspicious' headings, some of which didn't. One of these applications let us see the text of the deleted mail, but the other had destroyed it forever.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This was the scenario that we constantly came across - the software has to tread a very fine-line between allowing your mail through and deleting it. We soon realised that no anti-spam tool could be 100% efficient; it would either 'let through' some SPAM or delete innocent mail. The latter, we found to be unacceptable.
 
-```markdown
-Syntax highlighted code block
+Of the surviving three applications, we failed one because it was just too cautious. If every suspicious letter is queried, one at a time, it would be just as easy to manually delete them yourself.
 
-# Header 1
-## Header 2
-### Header 3
+The final application fell as a result of the amount of time taken. We quickly came to understand that any anti-SPAM tool would slow down the whole process of downloading your email, but felt that this just took too long.
 
-- Bulleted
-- List
+The standing survivor weighing a mere $27.95 was Unisyn's Spam Exterminator. While we felt that there was certainly room for improvement, this application seems to offer the best protection against SPAM currently available.
 
-1. Numbered
-2. List
+Features:  At the heart of the software is the rules criteria and action. Criteria is about how the software recognises a potential SPAM from an innocent letter. Some are clear cut. As I mentioned before, Mr Rock's email address is in my 'kill' list - no matter what this gentleman sends me, I will never see it. But others are not so clearly defined, and it is here that the program excels. For instance, a subject containing XXX is almost certain to be SPAM, but some of my friends have a remarkably bizarre sense of humour. This is where the action steps in. Assuming that the criteria states that "subject contains: XXX" the resulting action can be to automatically reply to the sender, report the spammer, notify by beeping, delete the message, confirm before deleting, and even send a copy to the recycle bin. Whereas Mr Rock's letters will automatically be deleted without my knowing, I prefer the software to check first if certain other criteria are met.
 
-**Bold** and _Italic_ and `Code` text
+But then the software goes one step further, with the My Friends list. Any person (or domain) who writes to you can be added to this list. What this does is that even if the subject of one of your friends is something along the lines of "XXX THE GREATEST SITE YET" (hypothetically of course) then as long as this 'friend' is on your list, his/her mail will not and can not be deleted by the software. This greatly reduces the chance of innocent mail being deleted, and also speeds up the whole checking process.
 
-[Link](url) and ![Image](src)
-```
+The software also has a list of more than 16,000 known spammer addresses, a variety of auto-responders, automatic mail checker and a mail previewer. This allows you to check your mail before downloading it into your email client, and also makes it very easy to add a new SPAM source to your extermination list.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Problems:  The first thing we noticed was that the standard setup is a little too harsh - we changed a few on the startup list from 'delete' to 'confirm before deleting'. Be careful of this - it doesn't really matter whether you use your email for work or play, you still don't want to have mail deleted. The second thing was that the interface wasn't quite as intuitive as we would have liked. It took us a while to work out the best way of using the software; especially as we wanted to be sure that we weren't going to be blindly deleting mail. Next was the Recycle Bin - at the time of writing this we couldn't get this feature to work; but this may have been as a result of our test system's setup, as opposed to the software itself.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nadjetey/nadjetey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Conclusion:  My personal opinion is that we can forget about waiting for legislation to curb SPAM - it looks destined to be far too little, far too late. And it seems that every few months I hear about another 'breakthrough' solution about to implemented by 'the servers'. But SPAM is a growing problem, and the only real way to deal with it is to fight back yourself. DON'T reply to the sender asking to be removed from the list (I am surprised to see this feature built into the software) as it probably won't work. The same goes to writing to abuse@ the domain. I own Quality-Shareware. If I send you SPAM and you wrote to abuse@quality-shareware.com, I would get your complaint letter. Again - wasted effort. For now, this software looks like the best option - before we installed it on our main machine, we were getting anywhere between two and twenty SPAMs coming through each day - nowadays we get one or two at the most. And we haven't lost a single 'innocent' letter. I think these results speak for themselves.
